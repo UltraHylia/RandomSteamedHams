@@ -1,0 +1,3 @@
+This project originally started as a basic joke to output the script of "Steamed Hams", with Chalmers lines in a randomised order. I later had the idea to extend this functionality to other characters, and coded it to do so; the code allows for the selection of which characters should be randomised, however I never created the user interface to be able to do so, so it has to be toggled directly via the code.
+
+This project is generally not being worked on any more. My friend GourmetSubZee has produced a better version of this (with video!) here: https://github.com/GourmetSubZee/SteamedHamsScrambler
